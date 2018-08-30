@@ -1,7 +1,7 @@
 # migrate
 
-[![travis](https://travis-ci.org/noonat/migrate.svg)][travis]
 [![godoc](https://godoc.org/github.com/noonat/migrate?status.svg)][godoc]
+[![travis](https://travis-ci.org/noonat/migrate.svg)][travis]
 [![report](https://goreportcard.com/badge/github.com/noonat/migrate)][report]
 
 Package migrate provides helpers for running SQL database migrations. It's
